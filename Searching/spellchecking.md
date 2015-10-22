@@ -22,5 +22,12 @@ IndexBasedSpellChecker 基于一个 Solr 索引作为相似的索引用于拼写
 它需要定义一个field作为索引词元的基础;a common practice is to copy terms from some fields (such
 as title , body , etc.) to another field created for spell checking. Here is a simple example of configuring solrconfig.xml with the IndexBasedSpellChecker :
 
-| 0:0 |
+| <searchComponent name="spellcheck" class="solr.SpellCheckComponent">
+<lst name="spellchecker">
+<str name="classname">solr.IndexBasedSpellChecker</str>
+<str name="spellcheckIndexDir">./spellchecker</str>
+<str name="field">content</str>
+<str name="buildOnCommit">true</str>
+</lst>
+</searchComponent> |
 
