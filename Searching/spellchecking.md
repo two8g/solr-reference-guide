@@ -10,4 +10,4 @@
 
 
 
-## 配置SpellCheckComponent
+<a id='distributed'>## 配置SpellCheckComponent</a>
