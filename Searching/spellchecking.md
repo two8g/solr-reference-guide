@@ -61,7 +61,7 @@ are always up-to-date with terms in the index. Here is how this might be configu
             <float name="thresholdTokenFrequency">.01</float>
         </lst>
     </searchComponent>
-    如下表
+    
 ## <span id="parameters">参数</span>
 
-Spell Check 参数说明
+Spell Check 参数说明如下表
