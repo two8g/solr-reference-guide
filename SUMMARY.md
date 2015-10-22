@@ -12,6 +12,7 @@
     * [Velocity](Searching/Velocity)
     * [Relevance](Searching/Relevance)
     * [查询语法和解析](Searching/Query_Syntax_and_Parsing)
+    * [拼写检查](Searching/Spell_Checking)
 * [Solr更佳配置](Well_Configured)
 * [管理Solr](Managing_Solr)
 * [SolrCloud](SolrCloud)
