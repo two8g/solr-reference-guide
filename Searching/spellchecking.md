@@ -66,8 +66,8 @@ are always up-to-date with terms in the index. Here is how this might be configu
 
 Spell Check 参数说明如下表.
 
-|   参数                |   说明    |
-|    --                 |    --     |
+| 参数 | 说明 |
+| -- | -- |
 |   spellcheck          |   打开或关闭请求的SpellCheck建议,true 生成拼写建议   |
 |   spellcheck.q or q   |   |
 
