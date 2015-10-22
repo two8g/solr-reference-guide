@@ -14,4 +14,4 @@
 
 ### 在 solrconfig.xml 中定义 Spell Check
 
-第一步, 在 soleconfig.xml 中指定terms的来源, 
+第一步, 在 soleconfig.xml 中指定terms的来源, Solr 提供三个来源, 讨论如下.
