@@ -12,4 +12,4 @@
 
 ## <span id="configure" name="configure">配置 SpellCheckComponent</span>
 
-### 
+### 在 solrconfig.xml 中定义 Spell Check
