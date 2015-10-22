@@ -62,23 +62,3 @@ are always up-to-date with terms in the index. Here is how this might be configu
         </lst>
     </searchComponent>
     
-When choosing a field to query for this spell checker, you want one which has relatively little analysis performed
-on it (particularly analysis such as stemming). Note that you need to specify a field to use for the suggestions, so like
-the IndexBasedSpellChecker , you may want to copy data from fields like title , body , etc., to a field dedicated
-to providing spelling suggestions.
-Many of the parameters relate to how this spell checker should query the index for term suggestions. The distanc
-eMeasure defines the metric to use during the spell check query. The value "internal" uses the default Levenshtein
-metric, which is the same metric used with the other spell checker implementations.
-Because this spell checker is querying the main index, you may want to limit how often it queries the index to be
-sure to avoid any performance conflicts with user queries. The accuracy setting defines the threshold for a valid
-suggestion, while maxEdits defines the number of changes to the term to allow. Since most spelling mistakes are
-only 1 letter off, setting this to 1 will reduce the number of possible suggestions (the default, however, is 2); the
-value can only be 1 or 2. minPrefix defines the minimum number of characters the terms should share. Setting
-this to 1 means that the spelling suggestions will all start with the same letter, for example.
-The maxInspections parameter defines the maximum number of possible matches to review before returning
-results; the default is 5. minQueryLength defines how many characters must be in the query before suggestions
-are provided; the default is 4. maxQueryFrequency sets the maximum threshold for the number of documents a
-term must appear in before being considered as a suggestion. This can be a percentage (such as .01, or 1%) or an
-absolute value (such as 4). A lower threshold is better for small indexes. Finally, tresholdTokenFrequency sets
-the minimum number of documents a term must appear in, and can also be expressed as a percentage or an
-absolute value.
