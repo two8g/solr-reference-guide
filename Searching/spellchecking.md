@@ -5,5 +5,5 @@
 
 本节主题列表
 * [配置SpellCheckComponent](#configure)
-* [Spell Check 参数](#Parameters)
+* [Spell Check 参数](#parameters)
 * [分布式 SpellCheck]
