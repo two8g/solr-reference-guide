@@ -19,4 +19,4 @@
 #### *IndexBasedSpellChecker*
 
 IndexBasedSpellChecker 基于一个 Solr 索引作为相似的索引用于拼写检查.
-它需要定义一个field
+它需要定义一个field作为索引词元
