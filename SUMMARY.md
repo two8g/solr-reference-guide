@@ -4,5 +4,5 @@
 * [快速开始](gettingstarted.md)
 * [更新Solr](upgrading_solr.md)
 * [Solr管理员界面](admin_interface.md)
-* [Documents,Fields和架构设计]()
+* [Documents,Fields和架构设计](docs_fields_schemma.md)
 
