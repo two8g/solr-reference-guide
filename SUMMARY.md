@@ -11,5 +11,4 @@
 * [Solr更佳配置](Well_Configured.md)
 * [管理Solr](Managing_Solr.md)
 * [SolrCloud](SolrCloud.md)
-* 
 
