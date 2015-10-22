@@ -4,6 +4,6 @@
 这种建议的基础可以是Solr中某个field中的terms,外部已有文本文件,或者其它Lucene索引的fileds.
 
 本节主题列表
-* [配置SpellCheckComponent](#Configure)
+* [配置SpellCheckComponent](#configure)
 * [Spell Check 参数](#Parameters)
 * [分布式 SpellCheck]
