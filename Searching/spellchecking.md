@@ -69,4 +69,4 @@ Spell Check 参数说明如下表.
 |参数|说明|
 | -- | -- |
 |spellcheck|d|
-|spellcheck|d|
+|spellcheck.q or q|d|
