@@ -29,5 +29,5 @@ as title , body , etc.) to another field created for spell checking. Here is a s
             <str name="field">content</str>
             <str name="buildOnCommit">true</str>
         </lst>
-    </searchComponent>```
+    </searchComponent>
 
