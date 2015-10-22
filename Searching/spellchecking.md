@@ -35,4 +35,4 @@ as title , body , etc.) to another field created for spell checking. Here is a s
 *classname*是可选项,如不定义,默认使用*IndexBasedSpellChecker*.
 
 *spellcheckIndexDir*定义支持拼写检查索引的目录位置,*field*定义拼写检查词元的字段源，
-最好选择这获取需要的结果时处理复杂的字段.
+最好不要选择这获取需要的结果时处理复杂的字段.
