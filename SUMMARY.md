@@ -8,5 +8,5 @@
 * [理解分析器,分词器和过滤器](Understanding_Analyzers_Tokenizers_and_Filters.md)
 * [索引及基本数据操作](Indexing_and_Basic_Data_Operations.md)
 * [搜索](Searching,md)
-* [Solr更佳配置]()
+* [Solr更佳配置](Well_Configured)
 
