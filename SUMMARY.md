@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [快速开始](Getting_Started.md)
+* [快速开始](Getting_Started)
 * [更新Solr](Upgrading_Solr.md)
 * [Solr管理员界面](Admin_User_Interface.md)
 * [Documents,Fields和架构设计](Documents_Fields_and_Schemma_Disign.md)
