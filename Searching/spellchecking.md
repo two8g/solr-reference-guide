@@ -66,4 +66,5 @@ are always up-to-date with terms in the index. Here is how this might be configu
 
 Spell Check 参数说明如下表.
 
-|参数||
+|参数|说明|
+|spellcheck||
