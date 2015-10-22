@@ -10,6 +10,7 @@
 * [搜索](Searching/Searching)
     * [综述](Searching/Overview)
     * [Velocity](Searching/Velocity)
+    * [Relevance](Searching/Relevance)
 * [Solr更佳配置](Well_Configured)
 * [管理Solr](Managing_Solr)
 * [SolrCloud](SolrCloud)
