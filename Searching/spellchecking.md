@@ -36,5 +36,4 @@ as title , body , etc.) to another field created for spell checking. Here is a s
 
 *spellcheckIndexDir*定义支持拼写检查索引的目录位置,*field*定义拼写检查词元的字段源，
 最好不要选择获取想要的结果时处理过程复杂的字段.If the field has many word variations
-from processing synonyms and/or stemming, the dictionary will be created with those variations in addition to more
-valid spelling data.
+from processing synonyms and/or stemming, the dictionary will be created with those variations in addition to more valid spelling data.
