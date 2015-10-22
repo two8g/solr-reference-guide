@@ -9,5 +9,5 @@
 * [索引及基本数据操作](Indexing_and_Basic_Data_Operations.md)
 * [搜索](Searching,md)
 * [Solr更佳配置](Well_Configured.md)
-* [管理Solr]()
+* [管理Solr](Managing_Solr.md)
 
