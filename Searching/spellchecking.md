@@ -1,4 +1,4 @@
 # 拼写检查
 
 拼写检查(SpellCheck)组件被设计用于借助其它相似的词元(terms)提供在线查询建议(Suggester)
-这种建议的基础可以是Solr中某个域中的terms,
+这种建议的基础可以是Solr中某个域中的terms,外部已有文本文件,
