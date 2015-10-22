@@ -18,3 +18,4 @@
 
 #### *IndexBasedSpellChecker*
 
+IndexBasedSpellChecker 基于一个 Solr 索引作为相似的索引
