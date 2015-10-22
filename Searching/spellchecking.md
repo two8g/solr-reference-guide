@@ -45,3 +45,19 @@ from processing synonyms and/or stemming, the dictionary will be created with th
 The DirectSolrSpellChecker uses terms from the Solr index without building a parallel index like the IndexBa
 sedSpellChecker . This spell checker has the benefit of not having to be built regularly, meaning that the terms
 are always up-to-date with terms in the index. Here is how this might be configured in solrconfig.xml
+
+    <searchComponent name="spellcheck" class="solr.SpellCheckComponent">
+    <lst name="spellchecker">
+    <str name="name">default</str>
+    <str name="field">name</str>
+    <str name="classname">solr.DirectSolrSpellChecker</str>
+    <str name="distanceMeasure">internal</str>
+    <float name="accuracy">0.5</float>
+    <int name="maxEdits">2</int>
+    <int name="minPrefix">1</int>
+    <int name="maxInspections">5</int>
+    <int name="minQueryLength">4</int>
+    <float name="maxQueryFrequency">0.01</float>
+    <float name="thresholdTokenFrequency">.01</float>
+    </lst>
+    </searchComponent>
