@@ -38,4 +38,4 @@ as title , body , etc.) to another field created for spell checking. Here is a s
 最好不要选择获取想要的结果时处理过程复杂的字段.If the field has many word variations
 from processing synonyms and/or stemming, the dictionary will be created with those variations in addition to more valid spelling data.
 
-最后的*buildOnCommit*定义是否在每次索引的commit时构建拼写检查索引
+最后的*buildOnCommit*定义是否在每次索引的commit时构建拼写检查索引,可选
