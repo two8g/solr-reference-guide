@@ -10,4 +10,4 @@
 
 
 
-## 配置
+## 配置SpellCheckComponent
