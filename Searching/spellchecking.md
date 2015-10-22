@@ -19,4 +19,5 @@
 #### *IndexBasedSpellChecker*
 
 IndexBasedSpellChecker 基于一个 Solr 索引作为相似的索引用于拼写检查.
-它需要定义一个field作为索引词元的基础;
+它需要定义一个field作为索引词元的基础;a common practice is to copy terms from some fields (such
+as title , body , etc.) to another field created for spell checking. Here is a simple example of configuring solrconfig.xml with the IndexBasedSpellChecker :
