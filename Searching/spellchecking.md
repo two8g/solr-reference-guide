@@ -68,5 +68,5 @@ Spell Check 参数说明如下表.
 
 |   参数    |   说明    |
 |    --     |    --     |
-|spellcheck||
+|   spellcheck  |   |
 |spellcheck.q or q|d|
