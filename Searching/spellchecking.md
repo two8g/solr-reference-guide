@@ -10,4 +10,4 @@
 
 
 
-## <a id='configure'>配置SpellCheckComponent</span>
+## <span id='configure'>配置SpellCheckComponent</span>
