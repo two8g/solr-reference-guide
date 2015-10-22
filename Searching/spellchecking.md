@@ -39,3 +39,5 @@ as title , body , etc.) to another field created for spell checking. Here is a s
 from processing synonyms and/or stemming, the dictionary will be created with those variations in addition to more valid spelling data.
 
 最后的*buildOnCommit*定义是否在每次索引的commit时构建拼写检查索引,它是可选,默认为false.
+
+#### *DirectSolrSpellCheker*
