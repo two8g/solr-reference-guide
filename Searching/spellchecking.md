@@ -31,4 +31,4 @@ as title , body , etc.) to another field created for spell checking. Here is a s
         </lst>
     </searchComponent>
 
-第一个元素定义 *searchComponent* 使用 *solr.SpellCheckComponent*. *classname*参数表示
+第一个元素定义 *searchComponent* 使用 *solr.SpellCheckComponent*. *classname*表示
