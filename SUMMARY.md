@@ -1,4 +1,6 @@
-# 目录
+# Summary
 
-* [快速开始](getting_started.md)
+* [Introduction](README.md)
+* [快速开始](gettingstarted_md.md)
 * [更新Solr](upgrading_solr.md)
+
