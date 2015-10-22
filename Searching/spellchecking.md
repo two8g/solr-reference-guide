@@ -34,4 +34,4 @@ as title , body , etc.) to another field created for spell checking. Here is a s
 第一个元素定义 *searchComponent* 使用 *solr.SpellCheckComponent*. *classname*表示SpellCheckComponent的实现类，这里使用*solr.IndexBasedSpellChecker*.
 *classname*是可选项,如不定义,默认使用*IndexBasedSpellChecker*.
 
-
+*spellcheckIndexDir*
