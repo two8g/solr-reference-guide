@@ -9,7 +9,6 @@
 * [索引及基本数据操作](Indexing_and_Basic_Data_Operations)
 * [搜索](Searching/Searching)
     * [综述](Searching/Overview)
-
 * [Solr更佳配置](Well_Configured)
 * [管理Solr](Managing_Solr)
 * [SolrCloud](SolrCloud)
