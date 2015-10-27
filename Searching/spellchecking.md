@@ -42,8 +42,6 @@ from processing synonyms and/or stemming, the dictionary will be created with th
 
 #### *DirectSolrSpellCheker*
 
-The DirectSolrSpellChecker uses terms from the Solr index without building a parallel index like the IndexBasedSpellChecker . This spell checker has the benefit of not having to be built regularly, meaning that the terms are always up-to-date with terms in the index. Here is how this might be configured in solrconfig.xml
-
 *DirectSolrSpellChecker* 与 *IndexBasedSpellCheck*不同,不需要构建一个并行的索引,而是直接使用Solr的索引.这种不需要经常创建索引,即是说,它的terms和原索引的terms是一直同步更新的.可以如下配置solrconfig.xml.
 
     <searchComponent name="spellcheck" class="solr.SpellCheckComponent">
