@@ -29,7 +29,7 @@
     * [介绍](schema/overview)
     * [Solr Field类型](schema/fieldtype)
         * [Field类型定义和属性](schema/definitions)
-        * [预留Field类型](schema/included)
+        * [Solr预留Field类型](schema/included)
     * [典型Fields](schema/field)
     * [拷贝Fields](schema/copyfield)
     * [动态Fields](schema/dynamic)
