@@ -80,7 +80,10 @@
    * [结果重排序](search/re-rank)
    * [结果集转换](search/transform)
    * [搜索建议](search/suggester)
-   * 
+   * [近似结果](search/mlt)
+   * [分页](search/pagination)
+   * [分组](search/group)
+   * [结果集折叠和展开](search/)
 * [Solr更佳配置](configure)
 * [管理Solr](manage)
 * [SolrCloud](solrcloud)
