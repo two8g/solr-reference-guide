@@ -23,7 +23,8 @@
         * [Ping测试](admin/core/ping.md)
         * [插件及状态](admin/core/plugins&stats.md)
         * [查询](admin/core/query.md)
-        * 
+        * [副本](admin/core/replication.md)
+        * [schema浏览](admin/core/schema.md)
 * [Documents,Fields和架构设计](Documents_Fields_and_Schemma_Disign)
 * [理解分析器,分词器和过滤器](Understanding_Analyzers_Tokenizers_and_Filters)
 * [索引及基本数据操作](Indexing_and_Basic_Data_Operations)
