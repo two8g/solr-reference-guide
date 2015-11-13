@@ -10,4 +10,5 @@ Lucene 搜索程序库目前位于开源项目前15之列, 也是Apache项目中
 
 [Install Solr](Install_Solr): Solr 安装流程.
 
-[Running Solr](Running_Solr): 
+[Running Solr](Running_Solr): 运行 Solr 说明. 包括启动服务信息, 增加文档, 和查询.
+
