@@ -12,3 +12,4 @@
 
     bin\solr.cmd start
 
+这将在后台运行 Solr
