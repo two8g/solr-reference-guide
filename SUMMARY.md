@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [简介](README.md)
 * [快速开始](Getting_Started)
 * [更新Solr](Upgrading_Solr)
 * [Solr管理员界面](Admin_User_Interface)
