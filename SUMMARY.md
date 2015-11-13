@@ -84,6 +84,8 @@
    * [分页](search/pagination)
    * [分组](search/group)
    * [结果集折叠和展开](search/expand-collapse)
+   * [结果聚类](search/cluster)
+   * [特殊查询](search/spatial)
 * [Solr更佳配置](configure)
 * [管理Solr](manage)
 * [SolrCloud](solrcloud)
