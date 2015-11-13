@@ -119,7 +119,7 @@
         * [Read and Write Side Fault Tolerance](solrcloud/read_and_write_side_fault_tolerance)
         * [NRT, Replication和Disaster REcovery](solrcloud/nrt_replication_disaster-recovery)
     * [配置参数](solrcloud/configuration)
-    * [建立外部Zookeeper服务](solrcloud/configuration/)
+    * [建立外部Zookeeper服务](solrcloud/configuration/external)
 * [传统扩展和分布式](scale_distribution)
 * [Client API](api)
 
