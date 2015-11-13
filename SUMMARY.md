@@ -83,7 +83,7 @@
    * [近似结果](search/mlt)
    * [分页](search/pagination)
    * [分组](search/group)
-   * [结果集折叠和展开](search/)
+   * [结果集折叠和展开](search/expand-collapse)
 * [Solr更佳配置](configure)
 * [管理Solr](manage)
 * [SolrCloud](solrcloud)
