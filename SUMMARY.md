@@ -46,6 +46,7 @@
 * [分析器,分词器和过滤器](analyzer&tokenizer&filter)
     * [分析器](analyzer)
     * [分词器](tokenizer)
+    * [过滤器](filter)
 * [索引及基本数据操作](Indexing_and_Basic_Data_Operations)
 * [搜索](Searching)
    * [综述](Searching/Overview)
