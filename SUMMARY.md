@@ -118,7 +118,7 @@
         * [分布式请求](solrcloud/distributed)
         * [Read and Write Side Fault Tolerance](solrcloud/read_and_write_side_fault_tolerance)
         * [NRT, Replication和Disaster REcovery](solrcloud/nrt_replication_disaster-recovery)
-    * [配置参数](solrcloud/conf)
+    * [配置参数](solrcloud/configuation)
     * [建立外部Zookeeper服务](solrcloud/conf/external_zookeeper)
     * [使用Zookeeper管理配置文件](solrcloud/conf/zk_manage_conf)
     * 
