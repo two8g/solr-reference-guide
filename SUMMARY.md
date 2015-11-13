@@ -103,6 +103,7 @@
     * [Solr插件](configure/plugins)
     * [JVM设置](configure/jvm)
 * [管理Solr](manage)
+* 
 * [SolrCloud](solrcloud)
 * [传统扩展和分布式](scale_distribution)
 * [Client API](api)
