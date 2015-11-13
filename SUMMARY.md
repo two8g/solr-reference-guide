@@ -33,7 +33,7 @@
         * [货币和汇率](schema/currency)
         * [日期](schema/date)
         * [枚举](schema/enum)
-        * [扩展文件](schema/external)
+        * [外包文件处理](schema/external)
     * [典型Fields](schema/field)
     * [拷贝Fields](schema/copyfield)
     * [动态Fields](schema/dynamic)
