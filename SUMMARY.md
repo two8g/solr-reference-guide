@@ -7,7 +7,7 @@
    * [快速预览](start/overview)
    * [深入一步](start/closer)
    * [Solr启脚本介绍](start/script)
-* [更新Solr](upgrading)
+* [更新Solr](upgrade)
 * [Solr管理员界面](admin)
    * [管理界面概述](admin/overview)
    * [获取帮助](admin/assistance)
