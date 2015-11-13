@@ -15,3 +15,4 @@ Linux/Unix/OSX 系统, 请下载'.tgz'格式压缩文件. 微软 Windows 系统,
 
     $ cd ~/
     $ tar zxf solr-5.0.0.tgz
+
