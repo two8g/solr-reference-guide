@@ -105,7 +105,7 @@
 * [管理Solr](manage)
     * [生产环境部署](manage/production)
     * [配置日志](manage/log)
-    * [打开SSL](manage/ssl)
+    * [SSL](manage/ssl)
     * 
 * [SolrCloud](solrcloud)
 * [传统扩展和分布式](scale_distribution)
