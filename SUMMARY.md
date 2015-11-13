@@ -2,6 +2,8 @@
 
 * [简介](README.md)
 * [快速开始](Getting_Started)
+    * [安装](Installing_Solr)
+    * 
 * [更新Solr](Upgrading_Solr)
 * [Solr管理员界面](Admin_User_Interface)
 * [Documents,Fields和架构设计](Documents_Fields_and_Schemma_Disign)
