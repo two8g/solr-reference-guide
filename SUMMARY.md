@@ -25,7 +25,7 @@
         * [查询](admin/core/query)
         * [副本](admin/core/replication)
         * [schema浏览](admin/core/schema)
-* [Documents,Fields和架构设计](Documents_Fields_and_Schemma_Disign)
+* [Documents,Fields和架构设计](documents&fields&schemma_disign)
 * [理解分析器,分词器和过滤器](Understanding_Analyzers_Tokenizers_and_Filters)
 * [索引及基本数据操作](Indexing_and_Basic_Data_Operations)
 * [搜索](Searching)
