@@ -8,4 +8,4 @@
 
     $ bin/solr start
 
-如果你使用 Windows 操作系统
+如果你使用 Windows 操作系统,
