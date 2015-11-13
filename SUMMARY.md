@@ -111,8 +111,9 @@
     * [资源管理](manage/resource)
     * [HDFS运行](manage/hdfs)
 * [SolrCloud](solrcloud)
-    * [SolrCloud入门](solrcloud/start)
-    * [SolrCloud工作原理](solrcloud/howwork)
+    * [入门](solrcloud/start)
+    * [工作原理](solrcloud/howwork)
+    * [配置参数]
 * [传统扩展和分布式](scale_distribution)
 * [Client API](api)
 
