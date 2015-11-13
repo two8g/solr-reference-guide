@@ -9,7 +9,7 @@
    * [Solr启脚本介绍](started/script)
 * [更新Solr](upgrading)
 * [Solr管理员界面](admin)
-    * [管理界面概述](overview)
+    * [管理界面概述](admin/overview)
     * [获取帮助](admin/assistance)
     * [日志](admin/logging)
     * [Cloud页面](admin/cloud)
