@@ -12,4 +12,3 @@
 
     bin\solr.cmd start
 
-
