@@ -9,6 +9,6 @@
     $ bin/solr start
 
 如果你使用 Windows 操作系统, 你可以运行 bin\solr.cmd 来启动 Solr.
-    
+
     bin\solr.cmd start
 
