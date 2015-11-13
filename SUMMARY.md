@@ -21,7 +21,7 @@
        * [Documents](admin/core/documents)
        * [配置文件](admin/core/files)
        * [Ping测试](admin/core/ping)
-       * [插件及状态](admin/core/plugins&stats)
+       * [插件及状态](admin/core/plugins_stats)
        * [查询](admin/core/query)
        * [副本](admin/core/replication)
        * [schema浏览](admin/core/schema)
