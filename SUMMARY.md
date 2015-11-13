@@ -28,7 +28,7 @@
 * [Documents,Fields和架构设计](schema)
     * [介绍](schema/overview)
     * [Solr Field类型](schema/fieldtype)
-        * [Field类型定义和属性](schema/definitions)
+        * [Field类型定义和属性](schema/definition)
         * [Solr预留Field类型](schema/included)
         * [货币和汇率数据支持](schema/currency)
         * [日期数据支持](schema/date)
