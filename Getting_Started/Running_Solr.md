@@ -13,3 +13,5 @@
     bin\solr.cmd start
 
 这将在后台运行 Solr, 并监听8983端口.
+
+当后台启动 Solr 时,
