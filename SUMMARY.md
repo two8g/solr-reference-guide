@@ -106,7 +106,9 @@
     * [生产环境部署](manage/production)
     * [配置日志](manage/log)
     * [SSL](manage/ssl)
-    * 
+    * [备份](manage/backup)
+    * [使用JMX](manage/jmx)
+    * [资源管理](manage/resource)
 * [SolrCloud](solrcloud)
 * [传统扩展和分布式](scale_distribution)
 * [Client API](api)
