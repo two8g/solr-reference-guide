@@ -28,7 +28,7 @@
 * [Documents,Fields和架构设计](documents&fields&schemma_disign)
     * [介绍](document/overview)
     * [Solr Field Types](document/fieldtypes)
-    * [定义Fields](do)
+    * [定义Fields](document/)
 * [理解分析器,分词器和过滤器](Understanding_Analyzers_Tokenizers_and_Filters)
 * [索引及基本数据操作](Indexing_and_Basic_Data_Operations)
 * [搜索](Searching)
