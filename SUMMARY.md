@@ -2,8 +2,8 @@
 
 * [介绍](README.md)
 * [快速开始](started)
-   * [安装](started/installing)
-   * [运行](started/running)
+   * [安装](started/install)
+   * [运行](started/run)
    * [快速预览](started/overview)
    * [深入一步](started/closer)
    * [Solr启脚本介绍](started/script)
