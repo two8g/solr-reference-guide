@@ -111,6 +111,7 @@
     * [资源管理](manage/resource)
     * [HDFS运行](manage/hdfs)
 * [SolrCloud](solrcloud)
+* 
 * [传统扩展和分布式](scale_distribution)
 * [Client API](api)
 
