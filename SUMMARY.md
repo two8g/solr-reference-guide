@@ -109,6 +109,7 @@
     * [备份](manage/backup)
     * [使用JMX](manage/jmx)
     * [资源管理](manage/resource)
+    * [HDFS]
 * [SolrCloud](solrcloud)
 * [传统扩展和分布式](scale_distribution)
 * [Client API](api)
