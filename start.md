@@ -8,7 +8,7 @@ Lucene 搜索程序库目前位于开源项目前15之列, 也是Apache项目中
 
 这一章将帮助你快速使用Solr, 并介绍 Solr 的基本特性. 包含以下几个主题:
 
-[Install Solr](1): Solr 安装流程.
+[Install Solr](install): Solr 安装流程.
 
 [Running Solr](start/run.md): 运行 Solr 说明. 包括启动服务信息, 增加文档, 和查询.
 
