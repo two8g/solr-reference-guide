@@ -51,6 +51,7 @@
     * [过滤器](filter/describe)
     * [CharFilterFactoried](filter/charfilter)
     * [Language Analysis](analysis)
+    * [发音匹配]
 * [索引及基本数据操作](Indexing_and_Basic_Data_Operations)
 * [搜索](Searching)
    * [综述](Searching/Overview)
