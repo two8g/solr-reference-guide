@@ -48,7 +48,7 @@
     * [分词器介绍](tokenizer/about)
     * [过滤器介绍](filter/about)
     * [分词器](tokenizer/tokenizers)
-    * []
+    * [过滤器]
 * [索引及基本数据操作](Indexing_and_Basic_Data_Operations)
 * [搜索](Searching)
    * [综述](Searching/Overview)
