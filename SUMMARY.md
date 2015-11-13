@@ -48,7 +48,9 @@
     * [分词器介绍](tokenizer/about)
     * [过滤器介绍](filter/about)
     * [分词器](tokenizer/tokenizers)
-    * [过滤器]()
+    * [过滤器](filter/describe)
+    * [CharFilterFactoried](filter/charfilter)
+    * [Language Analysis](analysis)
 * [索引及基本数据操作](Indexing_and_Basic_Data_Operations)
 * [搜索](Searching)
    * [综述](Searching/Overview)
@@ -60,4 +62,3 @@
 * [Solr更佳配置](Well_Configured)
 * [管理Solr](Managing_Solr)
 * [SolrCloud](SolrCloud)
-
