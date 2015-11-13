@@ -8,4 +8,4 @@ Lucene 搜索程序库目前位于开源项目前15之列, 也是Apache项目中
 
 这一章将帮助你快速使用Solr, 并介绍 Solr 的基本特性. 包含以下几个主题:
 
-[Install Solr]()
+[Install Solr](Install_Solr)
