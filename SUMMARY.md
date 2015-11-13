@@ -30,7 +30,7 @@
     * [Solr Field类型](schema/fieldtype)
         * [Field类型定义和属性](schema/definitions)
         * [Solr预留Field类型](schema/included)
-        * [货币和汇率数据支持](schema/currencies)
+        * [货币和汇率数据支持](schema/currency)
         * [日期数据支持](schema/date)
     * [典型Fields](schema/field)
     * [拷贝Fields](schema/copyfield)
