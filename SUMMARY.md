@@ -68,7 +68,12 @@
    * [Velocity](search/velocity)
    * [Relevance](search/relevance)
    * [查询语法和解析](search/query)
-    * 
+        * [查询参数](search/query/paramters)
+        * [标准查询分析器](search/query/parser/standard)
+        * [DisMax查询分析器](search/query/parser/dismax)
+        * [扩展DisMax查询分析器](search/query/parser/ex-dismax)
+        * [查询函数](search/query/function)
+        * 
    * [拼写检查](search/spellcheck)
    * [搜索建议](search/suggester)
 * [Solr更佳配置](configure)
