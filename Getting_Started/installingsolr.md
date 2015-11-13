@@ -10,4 +10,4 @@
 
 Solr [官方网址](http://lucene.apache.org/solr/).
 
-Linux/Unix/OSX 系统, 请下载 .tgz 压缩文件
+Linux/Unix/OSX 系统, 请下载 .tgz 格式压缩文件
