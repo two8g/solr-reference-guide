@@ -94,7 +94,7 @@
    * [近实时搜索](search/nrt)
    * [实时读取](search/rt-get)
    * [输出结果集](search/export)
-* [Solr最佳配置](configure)
+* [Solr实例配置优化](well-configured)
 * [管理Solr](manage)
 * [SolrCloud](solrcloud)
 
