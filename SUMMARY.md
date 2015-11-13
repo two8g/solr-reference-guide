@@ -1,7 +1,7 @@
 # Summary
 
 * [介绍](README.md)
-* [快速开始](started.md)
+* [快速开始](start.md)
    * [安装](started/install)
    * [运行](started/run)
    * [快速预览](started/overview)
