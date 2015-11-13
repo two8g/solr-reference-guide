@@ -1,6 +1,6 @@
 # Summary
 
-* [简介](README.md)
+* [介绍](README.md)
 * [快速开始](Getting_Started.md)
    * [安装](Getting_Started/Installing_Solr.md)
    * [运行](Getting_Started/Running_Solr.md)
