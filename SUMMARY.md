@@ -100,4 +100,6 @@
 * [Solr实例配置优化](well-configured)
 * [管理Solr](manage)
 * [SolrCloud](solrcloud)
+* [传统扩展和分布式](scale_distribution)
+* [Client API](api)
 
