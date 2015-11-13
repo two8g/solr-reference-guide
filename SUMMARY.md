@@ -67,7 +67,8 @@
    * [综述](search/overview)
    * [Velocity](search/velocity)
    * [Relevance](search/relevance)
-   * [查询语法和解析](search/query_syntax&parsing)
+   * [查询语法和解析](search/query)
+    * 
    * [拼写检查](search/spellcheck)
    * [搜索建议](search/suggester)
 * [Solr更佳配置](configure)
