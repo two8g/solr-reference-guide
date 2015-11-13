@@ -113,7 +113,7 @@
 * [SolrCloud](solrcloud)
     * [入门](solrcloud/start)
     * [工作原理](solrcloud/howwork)
-    * [配置参数]()
+    * [配置参数](solrcloud/configuration)
 * [传统扩展和分布式](scale_distribution)
 * [Client API](api)
 
