@@ -3,7 +3,10 @@
 * [简介](README.md)
 * [快速开始](Getting_Started)
     * [安装](Installing_Solr)
-    * 
+    * [运行](Running_Solr)
+    * [快速预览](A_Quick_Overview)
+    * [深入一步](A_Step_CLoser)
+    * [Solr启脚本介绍](Solr_Start_Script_Reference)
 * [更新Solr](Upgrading_Solr)
 * [Solr管理员界面](Admin_User_Interface)
 * [Documents,Fields和架构设计](Documents_Fields_and_Schemma_Disign)
