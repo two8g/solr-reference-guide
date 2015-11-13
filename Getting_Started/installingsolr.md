@@ -10,3 +10,4 @@
 
 Solr [官方网址](http://lucene.apache.org/solr/).
 
+Linux/Unix/OSX
