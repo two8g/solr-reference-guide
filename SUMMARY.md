@@ -124,7 +124,8 @@
     * [Zookeeper控制](solrcloud/configure/zk_access)
     * [Collections API](solrcloud/configure/api)
     * [Parameter Reference](solrcloud/configure/param_ref)
-    * [命令行](solrcloud/configure/)
+    * [命令行](solrcloud/configure/cmd)
+    * 
 * [传统扩展和分布式](scale_distribution)
 * [Client API](api)
 
