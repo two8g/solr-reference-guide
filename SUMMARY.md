@@ -122,7 +122,7 @@
     * [建立外部Zookeeper服务](solrcloud/configure/external_zookeeper)
     * [使用Zookeeper管理配置文件](solrcloud/configure/zk_manage_conf)
     * [Zookeeper控制](solrcloud/configure/zk_access)
-    * 
+    * [Collections API]()
 * [传统扩展和分布式](scale_distribution)
 * [Client API](api)
 
