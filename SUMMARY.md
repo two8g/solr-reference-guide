@@ -75,7 +75,7 @@
         * [查询函数](search/query/function)
         * [本地参数](search/query/local)
         * [其它分析器](search/query/other)
-   * 
+   * [高亮](highlighting)
    * [拼写检查](search/spellcheck)
    * [搜索建议](search/suggester)
 * [Solr更佳配置](configure)
