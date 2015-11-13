@@ -16,4 +16,4 @@ Linux/Unix/OSX 系统, 请下载'.tgz'格式压缩文件. 微软 Windows 系统,
     $ cd ~/
     $ tar zxf solr-5.0.0.tgz
 
-解压之后,你就可以阅读 [Running Solr](Getting_Started)
+解压之后,你就可以阅读 [Running Solr](Getting_Started/Running_Solr)
