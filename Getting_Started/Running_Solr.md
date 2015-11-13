@@ -16,3 +16,4 @@
 
 当后台启动 Solr 时, 脚本在返回命令行前快速启动 Solr.
 
+脚本 bin/solr 和 bin\solr.cmd 
