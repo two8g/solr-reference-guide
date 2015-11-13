@@ -125,7 +125,7 @@
     * [Collections API](solrcloud/configure/api)
     * [Parameter Reference](solrcloud/configure/param_ref)
     * [命令行](solrcloud/configure/cmd)
-    * [SolrCloud与传统配置文件]
+    * [SolrCloud与传统配置文件](solrcloud/configure/)
 * [传统扩展和分布式](scale_distribution)
 * [Client API](api)
 
