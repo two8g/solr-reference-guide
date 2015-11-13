@@ -113,7 +113,7 @@
 * [SolrCloud](solrcloud)
     * [入门](solrcloud/start)
     * [工作原理](solrcloud/howwork)
-        * [Nodes, Cores, Clusters 和 Leaders]()
+        * [Nodes, Cores, Clusters 和 Leaders](solrcloud/nodes_cores_clusters_leaders)
     * [配置参数](solrcloud/configuration)
 * [传统扩展和分布式](scale_distribution)
 * [Client API](api)
