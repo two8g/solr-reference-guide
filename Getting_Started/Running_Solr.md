@@ -4,8 +4,8 @@
 
 ##启动服务
 
-如果你安装 Solr 之后没有启动,你可以运行 Solr 目录下的 bin/solr 可执行文件.
+如果你安装 Solr 之后没有启动, 你可以运行 Solr 目录下的 bin/solr 可执行文件.
 
     $ bin/solr start
 
-如果你使用 Windows 操作系统,
+如果你使用 Windows 操作系统, 
