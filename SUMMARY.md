@@ -76,6 +76,7 @@
         * [本地参数](search/query/local)
         * [其它分析器](search/query/other)
    * [拼写检查](search/spellcheck)
+   * 
    * [搜索建议](search/suggester)
 * [Solr更佳配置](configure)
 * [管理Solr](manage)
