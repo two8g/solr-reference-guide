@@ -3,7 +3,7 @@
 * [简介](README.md)
 * [快速开始](Getting_Started.md)
    * [安装](Getting_Started/Installing_Solr.md)
-   * [运行](Getting_Started/runningsolr.md)
+   * [运行](Getting_Started/Running_Solr.md)
    * [快速预览](Getting_Started/A_Quick_Overview)
    * [深入一步](Getting_Started/A_Step_CLoser)
    * [Solr启脚本介绍](Getting_Started/Solr_Start_Script_Reference)
