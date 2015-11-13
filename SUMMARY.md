@@ -112,7 +112,7 @@
     * [HDFS运行](manage/hdfs)
 * [SolrCloud](solrcloud)
     * [SolrCloud入门](solrcloud/start)
-    * [SolrCloud工作原理](solrcloud/how)
+    * [SolrCloud工作原理](solrcloud/howwork)
 * [传统扩展和分布式](scale_distribution)
 * [Client API](api)
 
