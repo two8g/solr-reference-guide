@@ -11,3 +11,4 @@
 Solr [官方网址](http://lucene.apache.org/solr/).
 
 Linux/Unix/OSX 系统, 请下载'.tgz'格式压缩文件. 微软 Windows 系统, 可以下载'.zip'文件.
+只需解压 Solr
