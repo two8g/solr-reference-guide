@@ -1,4 +1,4 @@
-![Solr_logo](solr_logo_large.png)
+![Solr_logo](Solr_logo_large.png)
 # Apache Solr 参考指南
 
     本书是 Solr 5.0 的 Reference Guide 英文参考书的中文翻译。
