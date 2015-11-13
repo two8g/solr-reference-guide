@@ -12,7 +12,7 @@ Lucene 搜索程序库目前位于开源项目前15之列, 也是Apache项目中
 
 [Running Solr](start/run): 运行 Solr 说明. 包括启动服务信息, 增加文档, 和查询.
 
-[快速预览](Getting_Started/A_Quick_Overview): Solr 工作机制深层介绍.
+[快速预览](started/A_Quick_Overview): Solr 工作机制深层介绍.
 
 [深如一步](Getting_Started/A_Step_Closer): Solr home 目录和配置选项介绍说明.
 
