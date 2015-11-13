@@ -15,6 +15,8 @@
     * [Cloud页面](admin/cloud.md)
     * [Java配置](admin/properties.md)
     * [线程转储](admin/dump.md)
+    * [Core管理工具](admin/core.md)
+        * [分析页面](admin/core/analusis.md) 
 * [Documents,Fields和架构设计](Documents_Fields_and_Schemma_Disign)
 * [理解分析器,分词器和过滤器](Understanding_Analyzers_Tokenizers_and_Filters)
 * [索引及基本数据操作](Indexing_and_Basic_Data_Operations)
