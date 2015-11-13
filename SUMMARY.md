@@ -1,6 +1,6 @@
 # Summary
 
-* [介绍](README)
+* [介绍](README.md)
 * [快速开始](started)
    * [安装](started/installing)
    * [运行](started/running)
