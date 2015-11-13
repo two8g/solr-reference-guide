@@ -43,7 +43,7 @@
     * [零件组装](schema/pieces)
     * [DocValues](schema/docvalues)
     * [无预定义Schema模式](schema/schemaless)
-* [分析器,分词器和过滤器](Understanding_Analyzers_Tokenizers_and_Filters)
+* [分析器,分词器和过滤器](analyzer_tokenizer_and_filter)
 * [索引及基本数据操作](Indexing_and_Basic_Data_Operations)
 * [搜索](Searching)
    * [综述](Searching/Overview)
