@@ -16,4 +16,4 @@ Lucene 搜索程序库目前位于开源项目前15之列, 也是Apache项目中
 
 [深如一步](Getting_Started/A_Step_Closer): Solr home 目录和配置选项介绍说明.
 
-[Solr启动脚本介绍]
+[Solr启动脚本介绍](Getting_Started/)
