@@ -11,3 +11,7 @@
 ## core
 
 Solr元素, 文档集合
+
+## document
+
+文档,索引单元
