@@ -5,7 +5,7 @@
    * [安装](start/install.md)
    * [运行](start/run.md)
    * [快速预览](start/overview.md)
-   * [深入一步](start/closer)
+   * [深入一步](start/closer.md)
    * [Solr启脚本介绍](start/script)
 * [更新Solr](upgrade)
 * [Solr管理员界面](admin)
