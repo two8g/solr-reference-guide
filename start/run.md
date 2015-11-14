@@ -59,5 +59,5 @@ Solr提供多个实用的样例来帮助学习它的重要特性.使用```-e```�
 
 目前供使用的样例有:techproducts, dih, schemaless和cloud.
 
-![Info](info.png)   SolrCloud
+![Info](info.png)&nbsp;SolrCloud
 
