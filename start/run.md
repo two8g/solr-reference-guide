@@ -26,4 +26,4 @@ bin/solr脚本拥有多个选项.
 
 查看使用bin/solr脚本说明,运行:
 
-    
+    $ bin/solr --help
