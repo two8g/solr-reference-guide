@@ -76,3 +76,4 @@ Solr提供多个实用的样例来帮助学习它的重要特性.使用```-e```�
 
 http://localhost:8983/solr/
 ![The Solr Admin Interface](admin.png)
+*The Solr Admin Interface*
