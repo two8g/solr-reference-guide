@@ -64,4 +64,4 @@ Solr提供多个实用的样例来帮助学习它的重要特性.使用```-e```�
 #####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运行cloud样例会以[SolrCloud](/solrcloud.md)模式启动.详细信息请查看[SolrCloud入门](/solrcloud/start.md).
 ---
 
-### **
+### *查看Solr运行状态*
