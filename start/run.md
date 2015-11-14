@@ -61,5 +61,6 @@ Solr提供多个实用的样例来帮助学习它的重要特性.使用```-e```�
 
 ---
 ###![Info](info.png)&nbsp;&nbsp;&nbsp;Getting Started SolrCloud
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运行
 ---
 
