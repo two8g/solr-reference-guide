@@ -2,7 +2,7 @@
     "plugins": [
         "betterchinese",
         "search-pro",
-        "-autocover"
+        "autocover"
     ],
     "pluginsConfig": {}
 }
