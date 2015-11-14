@@ -4,14 +4,14 @@ Solr利用它先进的特性,如faceting(按关键词统计数量整理搜索结
 
 Lucene搜索程序库目前位于开源项目前15之列,也是Apache项目中的前5,使用企业超过4000.
 
-这一章将帮助你快速使用Solr, 并介绍 Solr 的基本特性. 包含以下几个主题:
+这一章将帮助你快速使用Solr,并介绍Solr的基本特性.包含以下几个主题:
 
-[安装](start/install.md): Solr 安装流程.
+[安装](start/install.md): Solr安装流程.
 
-[运行](start/run.md): 运行 Solr 说明. 包括启动服务信息, 增加文档, 和查询.
+[运行](start/run.md): 运行Solr说明.包括启动服务信息,增加文档,和查询.
 
-[快速预览](start/overview.md): Solr 工作机制深层介绍.
+[快速预览](start/overview.md): Solr工作机制深层介绍.
 
-[深如一步](start/closer.md): Solr home 目录和配置选项介绍说明.
+[深如一步](start/closer.md): Solr home目录和配置选项介绍说明.
 
-[Solr启动脚本介绍](start/script.md): bin/solr 运行脚本命令参数选项完整介绍.
+[Solr启动脚本介绍](start/script.md): bin/solr运行脚本命令参数选项完整介绍.
