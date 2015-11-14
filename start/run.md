@@ -43,4 +43,4 @@
 
     $ bin/solr start -p 8984
 
-### **
+### *关闭Solr*
