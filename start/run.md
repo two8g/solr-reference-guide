@@ -37,4 +37,4 @@ bin/solr脚本拥有多个选项.
 
     $ bin\solr.cmd start -f
 
-###
+### 
