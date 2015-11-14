@@ -1,12 +1,12 @@
-#安装
+# 安装
 
 本节介绍如何安装Solr.你可以在任何具备Java运行时环境的系统安装Solr,目前包含Linux,OS X,Windows系统安装说明,详细说明如下.此说明适应任何版本,除了少量Windows版本.
 
-###安装Java
+### 安装Java
 
 略.
 
-###安装Solr
+### 安装Solr
 
 Solr[官方网址](http://lucene.apache.org/solr/).
 
