@@ -83,3 +83,8 @@ http://localhost:8983/solr/
 
 ## 创建Core
 
+如果不使用样例配置启动Solr,你需要创建一个core来索引和搜索.运行:
+
+    $ bin/solr create -c <name>
+
+这将创建一个当你建索引是能使用data-driver schema正确判断的field type的core.
