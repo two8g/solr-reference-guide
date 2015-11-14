@@ -12,7 +12,7 @@
 
 译者: [two8g](https://github.com/two8g)
 
-参与翻译:
+感谢以下人员参与翻译:
 
 - 张静莲
 
