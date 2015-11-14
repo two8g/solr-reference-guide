@@ -33,4 +33,4 @@ bin/solr脚本拥有多个选项.
 由于Solr是一个服务,通常运行于后台程序,特别是在Unix/Linux系统上.而在前台运行,只需运行:
 
     $ bin/solr start -f
-
+如果是Windows,运行:
