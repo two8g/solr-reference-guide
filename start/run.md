@@ -41,3 +41,4 @@ bin/solr脚本拥有多个选项.
 使用-p参数,设置Solr的监听端口,例如:
 
     $ bin/solr start -p 8984
+
