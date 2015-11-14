@@ -10,7 +10,7 @@
 此项目托管在 [GitHub](https://github.com/two8g/solr-reference-guide.git).
 感谢提出建议或参与讨论 [GitHub](https://github.com/two8g/solr-reference-guide/issues)
 
-译者:[two8g](https://github.com/two8g)
+译者: [two8g](https://github.com/two8g)
 
 参与翻译:
 
