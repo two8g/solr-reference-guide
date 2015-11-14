@@ -4,7 +4,7 @@
 * [快速开始](start.md)
    * [安装](start/install.md)
    * [运行](start/run.md)
-   * [快速预览](start/overview)
+   * [快速预览](start/overview.md)
    * [深入一步](start/closer)
    * [Solr启脚本介绍](start/script)
 * [更新Solr](upgrade)
