@@ -38,3 +38,4 @@ bin/solr脚本拥有多个选项.
     $ bin\solr.cmd start -f
 
 ### *指定新端口运行*
+
