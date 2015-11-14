@@ -7,3 +7,7 @@
 ## Lucene
 
 开源JAVA搜索程序库
+
+## core
+
+Solr元素, 文档集合
