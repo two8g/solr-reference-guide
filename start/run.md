@@ -36,3 +36,4 @@ bin/solr脚本拥有多个选项.
 如果是Windows,运行:
 
     $ bin\solr.cmd start -f
+
