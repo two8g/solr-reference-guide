@@ -12,8 +12,8 @@ Lucene 搜索程序库目前位于开源项目前15之列, 也是Apache项目中
 
 [运行](start/run.md): 运行 Solr 说明. 包括启动服务信息, 增加文档, 和查询.
 
-[快速预览](start/overview): Solr 工作机制深层介绍.
+[快速预览](start/overview.md): Solr 工作机制深层介绍.
 
-[深如一步](start/closer): Solr home 目录和配置选项介绍说明.
+[深如一步](start/closer.md): Solr home 目录和配置选项介绍说明.
 
-[Solr启动脚本介绍](start/script): bin/solr 运行脚本命令参数选项完整介绍.
+[Solr启动脚本介绍](start/script.md): bin/solr 运行脚本命令参数选项完整介绍.
