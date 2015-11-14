@@ -128,5 +128,5 @@
    * [命令行](solrcloud/configure/cmd)
    * [SolrCloud与传统配置文件](solrcloud/configure/legacy_conf)
 * [传统扩展和分布式](scaledistribution.md)
-* [Client API](api)
+* [Client API](api.md)
 
