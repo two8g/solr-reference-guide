@@ -78,4 +78,4 @@ http://localhost:8983/solr/
 ![The Solr Admin Interface](admin.png)
 *The Solr Admin Interface*
 
-如果Solr没有运行成功,
+如果Solr没有运行成功,页面会提示无法连接到服务器.确认端口是否正确,试着再来一次.
