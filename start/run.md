@@ -4,16 +4,16 @@
 
 ## 启动服务
 
-如果你安装 Solr 之后没有启动, 你可以运行 Solr 目录下的 bin/solr 可执行文件.
+如果你安装Solr之后没有启动,你可以运行Solr目录下的bin/solr可执行文件.
 
     $ bin/solr start
 
-如果你使用 Windows 操作系统, 你可以运行 bin\solr.cmd 来启动 Solr.
+如果你使用Windows操作系统,你可以运行bin\solr.cmd来启动 Solr.
 
     bin\solr.cmd start
 
-这将在后台运行 Solr, 并监听8983端口.
+这将在后台运行Solr,并监听8983端口.
 
-当后台启动 Solr 时, 脚本在返回命令行前快速启动 Solr.
+当后台启动Solr时,脚本在返回命令行前快速启动Solr.
 
-脚本 bin/solr 和 bin\solr.cmd 可以自定义 Solr 运行模式. 
+脚本bin/solr和 bin\solr.cmd可以自定义Solr运行模式.
