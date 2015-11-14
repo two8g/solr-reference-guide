@@ -39,4 +39,4 @@ bin/solr脚本拥有多个选项.
 
 ### *指定新端口运行*
 
-    
+    $ bin/solr start -p 8984
