@@ -8,7 +8,7 @@
    * [深入一步](start/closer.md)
    * [Solr启脚本介绍](start/script.md)
 * [更新Solr](upgrade.md)
-* [Solr管理员界面](admin)
+* [Solr管理员界面](admin.md)
    * [管理界面概述](admin/overview)
    * [获取帮助](admin/assistance)
    * [日志](admin/logging)
