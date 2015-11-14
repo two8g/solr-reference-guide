@@ -16,4 +16,4 @@
 
 当后台启动Solr时,脚本在返回命令行前快速启动Solr.
 
-脚本bin/solr和 bin\solr.cmd可以自定义Solr运行模式.
+脚本bin/solr和 bin\solr.cmd可以自定义Solr运行模式.我们来练习一些使用bin/solr脚本的例子
