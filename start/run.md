@@ -38,5 +38,5 @@ bin/solr脚本拥有多个选项.
     $ bin\solr.cmd start -f
 
 ### *指定新端口运行*
-使用-p参数设置Solr的监听端口,
+使用-p参数,设置Solr的监听端口,
     $ bin/solr start -p 8984
