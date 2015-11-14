@@ -103,7 +103,7 @@
    * [Solr Cores 和 solr.xml](cores_solr)
    * [Solr插件](configure/plugins)
    * [JVM设置](configure/jvm)
-* [管理Solr](manage)
+* [管理Solr](manage.md)
    * [生产环境部署](manage/production)
    * [配置日志](manage/log)
    * [SSL](manage/ssl)
