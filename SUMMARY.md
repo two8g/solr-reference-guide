@@ -64,7 +64,7 @@
    * [删除重复数据](index/de-duplication)
    * [索引中检测语言](index/detect)
    * [UIMA集合](index/uima)
-* [搜索](search)
+* [搜索](search.md)
    * [综述](search/overview)
    * [Velocity](search/velocity)
    * [Relevance](search/relevance)
