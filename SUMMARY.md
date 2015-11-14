@@ -112,7 +112,7 @@
    * [资源管理](manage/resource)
    * [HDFS运行](manage/hdfs)
 * [SolrCloud](solrcloud.md)
-   * [SolrCloud入门](solrcloud/start)
+   * [SolrCloud入门指南](solrcloud/start)
    * [工作原理](solrcloud/howwork)
        * [Nodes, Cores, Clusters 和 Leaders](solrcloud/nodes_cores_clusters_leaders)
        * [分片Shards和索引](solrcloud/shards_index)
