@@ -54,7 +54,7 @@
    * [Language Analysis](analysis)
    * [发音匹配](phonetic)
    * [运行分析器](analyzer/running)
-* [索引及基本数据操作](index)
+* [索引及基本数据操作](index.md)
    * [介绍](index/introduction)
    * [Post工具](index/post)
    * [Index Handler上传数据](index/handler)
