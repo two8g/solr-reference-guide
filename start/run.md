@@ -58,6 +58,7 @@ Solr提供多个实用的样例来帮助学习它的重要特性.使用```-e```�
     $ bin/solr -e techproducts
 
 目前供使用的样例有:techproducts, dih, schemaless和cloud.
+
 --
 ###![Info](info.png)&nbsp;&nbsp;&nbsp;Getting Started SolrCloud
 
