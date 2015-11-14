@@ -92,3 +92,6 @@ http://localhost:8983/solr/
 查看新建core的所有可选项:
 
     $ bin/solr create -help
+
+## 添加文档
+
