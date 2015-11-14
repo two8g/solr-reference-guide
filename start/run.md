@@ -56,3 +56,5 @@
 Solr提供多个实用的样例来帮助学习它的重要特性.使用```-e```标记来运行样例.如运行'Tech products'样例:
 
     $ bin/solr -e techproducts
+
+目前供使用的样例有:techproducts, dih, schemaless和cloud
