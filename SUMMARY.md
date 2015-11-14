@@ -36,7 +36,7 @@
        * [枚举](schema/enum)
        * [外包文件处理](schema/external)
        * [Field 使用案例](schema/usecase)
-   * [典型 Fields](schema/field)
+   * [定义 Fields](schema/field)
    * [拷贝 Fields](schema/copyfield)
    * [动态 Fields](schema/dynamic)
    * [Schema元素](schema/element)
