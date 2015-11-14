@@ -88,3 +88,7 @@ http://localhost:8983/solr/
     $ bin/solr create -c <name>
 
 这将创建一个当你建索引是能使用data-driver schema正确判断的field type的core.
+
+查看新建core的所有可选项:
+
+    $ bin/solr create -help
