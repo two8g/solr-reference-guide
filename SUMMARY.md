@@ -111,7 +111,7 @@
    * [使用JMX](manage/jmx)
    * [资源管理](manage/resource)
    * [HDFS运行](manage/hdfs)
-* [SolrCloud](solrcloud)
+* [SolrCloud](solrcloud.md)
    * [入门](solrcloud/start)
    * [工作原理](solrcloud/howwork)
        * [Nodes, Cores, Clusters 和 Leaders](solrcloud/nodes_cores_clusters_leaders)
