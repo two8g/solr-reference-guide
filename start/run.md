@@ -29,3 +29,4 @@ bin/solr脚本拥有多个选项.
     $ bin/solr --help
 
 ### *前台运行Solr*
+
