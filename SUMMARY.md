@@ -26,7 +26,7 @@
        * [查询](admin/core/query)
        * [副本](admin/core/replication)
        * [schema浏览](admin/core/schema)
-* [Documents,Fields和Schema](document_field_schema)
+* [Documents,Fields和Schema](document_field_schema.md)
    * [介绍](schema/overview)
    * [Field 类型](schema/fieldtype)
        * [Field 类型定义和属性](schema/definition)
