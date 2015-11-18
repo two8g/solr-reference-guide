@@ -61,7 +61,7 @@
    * [Tika](index/tika)
    * [Data Import Handler上传结构化存储数据](index/dataimport)
    * [更新部分文档](index/update)
-   * [删除重复数据](index/de-duplication)
+   * [删除重复数据](index/de-duplication.md)
    * [索引中检测语言](index/detect)
    * [UIMA集合](index/uima)
 * [搜索](search.md)
