@@ -49,7 +49,7 @@
    * [分词器介绍](tokenizer/about)
    * [过滤器介绍](filter/about)
    * [分词器](tokenizer/tokenizers)
-   * [过滤器](filter/describe)
+   * [过滤器](filter/describe.md)
    * [CharFilterFactoried](filter/charfilter)
    * [Language Analysis](analysis)
    * [发音匹配](phonetic)
