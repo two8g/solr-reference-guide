@@ -47,7 +47,7 @@
 * [分析器,分词器和过滤器](analyzer_tokenizer_filter.md)
    * [分析器](analyzer)
    * [分词器介绍](tokenizer/about)
-   * [过滤器介绍](filter/about)
+   * [过滤器介绍](filter/descriptions)
    * [分词器](tokenizer/tokenizers)
    * [过滤器](filter/describe.md)
    * [CharFilterFactoried](filter/charfilter)
