@@ -104,3 +104,5 @@ Solr的目的是查找与查询条件匹配的文档.Solr的模式提供了对�
 查看`bin/post`脚本的使用说明,使用`-help`选项.
 
 `bin/post`支持多种格式的内容.包括Solr的native XML文件,JSON格式,CVS文件,目录数文件,或者简单的web crawl.
+
+接着,我们把所有JSON格式的文档添加到索引中
