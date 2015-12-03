@@ -105,4 +105,17 @@ Solr的目的是查找与查询条件匹配的文档.Solr的模式提供了对�
 
 `bin/post`支持多种格式的内容.包括Solr的native XML文件,JSON格式,CVS文件,目录数文件,或者简单的web crawl.
 
-接着,我们把所有JSON格式的文档添加到索引中
+接着,我们把所有JSON格式的文档添加到索引中:
+
+```
+$ bin/post -c gettingstarted example/exampledocs/*.json
+SimplePostTool version 5.0.0
+Posting files to [base] url http://localhost:8983/solr/gettingstarted/update...
+Entering auto mode. File endings considered are
+xml,json,csv,pdf,doc,docx,ppt,pptx,xls,xlsx,odt,odp,ods,ott,otp,ots,rtf,htm,html,txt,l
+og
+POSTing file books.json (application/json) to [base]
+1 files indexed.
+COMMITting Solr index changes to http://localhost:8983/solr/gettingstarted/update...
+Time spent: 0:00:00.450
+```
