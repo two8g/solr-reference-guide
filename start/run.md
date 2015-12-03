@@ -24,7 +24,7 @@
 
 ### *脚本帮助*
 
-查看使用bin/solr脚本说明,运行:
+查看使用`bin/solr`脚本说明,运行:
 
     $ bin/solr --help
 
