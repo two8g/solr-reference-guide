@@ -5,3 +5,4 @@
 Solr在整个应用中是如何与其它部分协作的:
 
 ![integrate](integrate.png)
+
