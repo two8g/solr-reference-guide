@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "betterchinese",
         "search-pro",
         "autocover"
     ],
