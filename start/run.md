@@ -119,3 +119,4 @@ POSTing file books.json (application/json) to [base]
 COMMITting Solr index changes to http://localhost:8983/solr/gettingstarted/update...
 Time spent: 0:00:00.450
 ```
+这样solr,就给所有这些文档建立了索引.
