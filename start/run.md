@@ -4,11 +4,11 @@
 
 ## 启动服务
 
-如果你安装Solr之后没有启动,你可以运行Solr目录下的```bin/solr```可执行文件.
+如果你安装Solr之后没有启动,你可以运行Solr目录下的`bin/solr`可执行文件.
 
     $ bin/solr start
 
-如果你使用Windows操作系统,你可以运行```bin\solr.cmd```来启动 Solr.
+如果你使用Windows操作系统,你可以运行`bin\solr.cmd`来启动 Solr.
 
     bin\solr.cmd start
 
@@ -16,11 +16,11 @@
 
 当后台启动Solr时,脚本在返回命令行前快速启动Solr.
 
-脚本```bin/solr```和 ```bin\solr.cmd```可以自定义Solr运行模式.我们来练习一些使用```bin/solr```脚本的例子(如果在Windows下运行,```bin\solr.cmd```和下面例子的使用方式一样):
+脚本`bin/solr`和 `bin\solr.cmd`可以自定义Solr运行模式.我们来练习一些使用`bin/solr`脚本的例子(如果在Windows下运行,`bin\solr.cmd`和下面例子的使用方式一样):
 
 ### Solr脚本选项
 
-```bin/solr``` 脚本拥有多个选项.
+`bin/solr` 脚本拥有多个选项.
 
 ### *脚本帮助*
 
@@ -45,15 +45,15 @@
 
 ### *关闭Solr*
 
-当在前台(使用 -f)运行Solr时,可以直接使用```Ctrl-c```关闭Solr.而在后台运行时,需要执行控制台命令来关闭:
+当在前台(使用 -f)运行Solr时,可以直接使用`Ctrl-c`关闭Solr.而在后台运行时,需要执行控制台命令来关闭:
 
     $ bin/solr stop -p 8983
 
-关闭命令必须指定Solr的监听端口,或者使用```-all```参数关闭所有运行中的Solr.
+关闭命令必须指定Solr的监听端口,或者使用`-all`参数关闭所有运行中的Solr.
 
 ### *指定示例配置运行Solr*
 
-Solr提供多个实用的样例来帮助学习它的重要特性.使用```-e```标记来运行样例.如运行'Tech products'样例:
+Solr提供多个实用的样例来帮助学习它的重要特性.使用`-e`标记来运行样例.如运行'Tech products'样例:
 
     $ bin/solr -e techproducts
 
@@ -97,5 +97,6 @@ http://localhost:8983/solr/
 
 Solr的目的是查找与查询条件匹配的文档.Solr的模式提供了对内容的结构化方式(更多请看[第四章](/document_field_schema.md)),如果没有文档,那还谈什么.要想Solr多产奶,就得先喂草.
 
-你可能想在搜索想要的内容之前添加一点简单的文档.Solr提供了一些测试文档集,位于```example/```子目录下.
+你可能想在搜索想要的内容之前添加一点简单的文档.Solr提供了一些测试文档集,位于`example/`子目录下.
 
+`bin/`
