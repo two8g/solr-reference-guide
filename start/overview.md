@@ -15,4 +15,4 @@ Solr的可以很容易地通过以下步骤添加在线商店搜索功能:
 3. 把用户可搜索商品数据输入给Solr.
 4. 在应用中暴露一个搜索方法.
 
-Solr基于开发标准,它具有高度可扩展性.Solr查询具有RESTful特性,本质上,它的请求是简单的http url请求,响应是结构化文档.
+Solr基于开发标准,它具有高度可扩展性.Solr查询具有RESTful特性,本质上,它的请求是简单的http url请求,响应是结构化文档:mainly XML, but it could also be JSON, CSV, or some other format. This means that a wide variety of clients will be able to use Solr, from other web applications to browser clients, rich client applications, and mobile devices. Any platform capable of HTTP can talk to Solr. See Client APIs for details on client APIs.
