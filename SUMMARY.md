@@ -100,7 +100,7 @@
    * [输出结果集](search/export)
 * [Solr实例配置优化](well-configured.md)
    * [solrconfig.xml](configure/solrconfig)
-   * [Solr Cores 和 solr.xml](cores_solr)
+   * [Solr Cores 和 solr.xml](configure/cores_solr)
    * [Solr插件](configure/plugins)
    * [JVM设置](configure/jvm)
 * [管理Solr](manage.md)
