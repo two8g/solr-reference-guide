@@ -24,7 +24,7 @@
        * [Ping测试](admin/core/ping.md)
        * [插件及状态](admin/core/pluginsstats.md)
        * [查询](admin/core/query.md)
-       * [副本](admin/core/replication)
+       * [副本](admin/core/replication.md)
        * [schema浏览](admin/core/schema.md)
 * [Documents,Fields和Schema](document_field_schema.md)
    * [介绍](schema/overview)
