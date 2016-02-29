@@ -23,7 +23,7 @@
        * [配置文件](admin/core/files.md)
        * [Ping测试](admin/core/ping.md)
        * [插件及状态](admin/core/pluginsstats.md)
-       * [查询](admin/core/query)
+       * [查询](admin/core/query.md)
        * [副本](admin/core/replication)
        * [schema浏览](admin/core/schema)
 * [Documents,Fields和Schema](document_field_schema.md)
