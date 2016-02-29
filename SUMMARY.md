@@ -11,7 +11,7 @@
 * [Solr管理员界面](admin.md)
    * [管理界面概述](admin/overview.md)
    * [获取帮助](admin/assistance.md)
-   * [日志](admin/logging)
+   * [日志](admin/logging.md)
    * [Cloud页面](admin/cloud)
    * [Core Admin](admin/coreadmin)
    * [Java配置](admin/properties)
