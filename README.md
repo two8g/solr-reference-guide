@@ -3,9 +3,9 @@
 
     本书是 Solr 5.0 的 Reference Guide 英文参考书的中文翻译
     
-由于最近项目中使用Solr开展搜索相关项目,但Solr的中文资料较少,于是阅读英文指南的同时,将自己的翻译写成本书.
+由于最近项目中使用Solr开展搜索相关项目,但Solr的中文资料较少,于是阅读英文指南的同时,顺便转为中文内容，以方便大家学习交流。
 
-作者的英语水平较低,因此只能尽力而为.阅读时最好参考[英文文献](http://archive.apache.org/dist/lucene/solr/ref-guide/apache-solr-ref-guide-5.0.pdf).非常欢迎所有人提供帮助和建议.
+作者的英语水平较低,因此只能尽力而为,翻译过程中大量借助Google翻译页有道翻译.阅读时最好参考[英文文献](http://archive.apache.org/dist/lucene/solr/ref-guide/apache-solr-ref-guide-5.0.pdf).非常欢迎所有人提供帮助和建议.
 
 此项目托管在 [GitHub](https://github.com/two8g/solr-reference-guide.git).
 感谢提出建议或参与讨论 [GitHub](https://github.com/two8g/solr-reference-guide/issues)
