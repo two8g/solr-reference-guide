@@ -17,7 +17,7 @@ Solr home目录的关键部分如下：
 
 你必须提供`solr.xml`,`solrconfig.xml` 和`schema.xml`这三个文件告诉Solr如何工作.Solr默认将索引数据存储在data目录下。
 
-`solr.xml`指定Solr core的配置选项，同时支持自定义配置多个cores.更多内容请查看[Slolr cores和solr.xml](Slolr cores和solr.xml.md)
+`solr.xml`指定Solr core的配置选项，同时支持自定义配置多个cores.更多内容请查看[Slolr cores和solr.xml](/configure/cores_solr.md)
 
 You supply solr.xml , solrconfig.xml , and schema.xml to tell Solr how to behave. By default, Solr stores its
 index inside data.
