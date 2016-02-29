@@ -18,7 +18,7 @@
    * [线程转储](admin/dump.md)
    * [Core管理工具](admin/core.md)
        * [分析界面](admin/core/analysis.md)
-       * [数据导入](admin/core/dataimport)
+       * [数据导入](admin/core/dataimport.md)
        * [Documents](admin/core/documents)
        * [配置文件](admin/core/files)
        * [Ping测试](admin/core/ping)
