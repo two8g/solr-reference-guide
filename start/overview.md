@@ -20,4 +20,3 @@ Solr基于开发标准,它具有高度可扩展性.Solr查询具有RESTful特性
 Solr基于Apache Lucene项目，Lucene是一款高性能，多功能的搜索引擎。Solr提供多字段和分类下的简单关键字的包含跟多信息的复杂查询结果。
 
 假如Solr的性能不能让人感到惊人，那么它能支撑庞大数据的应用就只是把戏。
-If Solr's capabilities are not impressive enough, its ability to handle very high-volume applications should do the trick.
