@@ -15,4 +15,4 @@ Linux/Unix/OSX系统,请下载`.tgz`格式压缩文件.微软Windows系统,可�
     $ cd ~/
     $ tar zxf solr-5.0.0.tgz
 
-解压之后,你就可以阅读[运行](running.md)章节学习运行Solr.
+解压之后,你就可以阅读[运行](run.md)章节学习运行Solr.
