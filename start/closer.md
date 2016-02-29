@@ -19,7 +19,7 @@ Solr home目录的关键部分如下：
 
 `solr.xml`指定Solr core的配置选项，同时支持自定义配置多个cores.更多内容请查看[Slolr cores和solr.xml](/configure/cores_solr.md).
 
-`solrconfig.xml`控制高级行为。例如，你可以指定一个替代data目录的路径.更多内容在[配置solrconfig.xml](/configure/solrconfig)
+`solrconfig.xml`控制高级行为。例如，你可以指定一个替代data目录的路径.更多内容在[配置solrconfig.xml](/configure/solrconfig.md)
 
 You supply solr.xml , solrconfig.xml , and schema.xml to tell Solr how to behave. By default, Solr stores its
 index inside data.
