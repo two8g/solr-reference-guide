@@ -19,7 +19,7 @@
    * [Core管理工具](admin/core.md)
        * [分析界面](admin/core/analysis.md)
        * [数据导入](admin/core/dataimport.md)
-       * [Documents](admin/core/documents)
+       * [Documents](admin/core/documents.md)
        * [配置文件](admin/core/files)
        * [Ping测试](admin/core/ping)
        * [插件及状态](admin/core/plugins_stats)
