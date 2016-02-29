@@ -10,7 +10,7 @@
 * [更新Solr](upgrade.md)
 * [Solr管理员界面](admin.md)
    * [管理界面概述](admin/overview.md)
-   * [获取帮助](admin/assistance)
+   * [获取帮助](admin/assistance.md)
    * [日志](admin/logging)
    * [Cloud页面](admin/cloud)
    * [Core Admin](admin/coreadmin)
