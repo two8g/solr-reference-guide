@@ -16,7 +16,7 @@
    * [Core Admin](admin/coreadmin.md)
    * [Java配置](admin/properties.md)
    * [线程转储](admin/dump.md)
-   * [Core管理工具](admin/core)
+   * [Core管理工具](admin/core.md)
        * [分析界面](admin/core/analysis.md)
        * [数据导入](admin/core/dataimport)
        * [Documents](admin/core/documents)
