@@ -21,7 +21,7 @@ Solr home目录的关键部分如下：
 
 `solrconfig.xml`控制高级行为。例如，你可以指定一个替代data目录的路径.更多内容在[配置solrconfig.xml](/configure/solrconfig.md)
 
-`schema.xml`描述Solr建立索引的文档格式。其中，你可以定义文档为多个field的一个集合。你需要同时定义field的type和field本身。Field Type的定义很强大，包括Solr对输入的field的处理过程和如何搜索。请查看[](/document_field_schema.md)
+`schema.xml`描述Solr建立索引的文档格式。其中，你可以定义文档为多个field的一个集合。你需要同时定义field的type和field本身。Field Type的定义很强大，包括Solr对输入的field的处理过程和如何搜索。请查看[Documents](/document_field_schema.md)
 
 schema.xml describes the documents you will ask Solr to index. Inside schema.xml , you define a document as a
 collection of fields. You get to define both the field types and the fields themselves. Field type definitions are
