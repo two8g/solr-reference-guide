@@ -21,20 +21,7 @@ Solr基于Apache Lucene项目，Lucene是一款高性能，多功能的搜索引
 
 假如Solr的性能不能让人感到惊人，那么它能支撑庞大数据的应用就只是把戏。
 
-A relatively common scenario is that you have so much data, or so many queries, that a single Solr server is unable
-to handle your entire workload. In this case, you can scale up the capabilities of your application using SolrCloud to
-better distribute the data, and the processing of requests, across many servers. Multiple options can be mixed and
-matched depending on the type of scalability you need.
-
-For example: "Sharding" is a scaling technique in which a collection is split into multiple logical pieces called
-"shards" in in order to scale up the number of documents in a collection beyond what could physically fit on a single
-server. Incoming queries are distributed to every shard in the collection, which respond with merged results.
-Another technique available is to increase the "Replication Factor" of your collection, which allows you to add
-servers with additional copies of your collection to handle higher concurrent query load by spreading the requests
-around to multiple machines. Sharding and Replication are not mutually exclusive, and together make Solr an
-extremely powerful and scalable platform.
-
-Best of all, this talk about high-volume applications is not just hypothetical: some of the famous Internet sites that
-use Solr today are Macy's, EBay, and Zappo's.
-
-For more information, take a look at https://wiki.apache.org/solr/PublicServers .
+一种比较常见的情况是，你有这么多的数据，还是让不少查询，单个Solr的服务器无法处理您的整个工作量。在这种情况下，您可以使用扩展应用程序的能力SolrCloud更好地分配数据，以及请求的处理，在许多服务器。多个选项可以根据可扩展性您需要的类型进行混合和匹配。
+例如：“分片”是缩放技术，其中集合，以扩展的文件数集合中分割成多个逻辑片段被称为“碎片”超出了所能爽利一台服务器上。传入查询被分配给集合中的每一个碎片，这与合并的结果作出响应。可用另一种方法是增加你的收藏，让你与你的收藏周围蔓延请求到多台计算机来处理高并发查询负载的额外副本添加服务器的“复制因子”。分片和复制并不是相互排斥的，共同作出Solr的一个非常强大的，可扩展的平台。
+最重要的是，这种谈大批量应用不只是假设：一些使用Solr的今天著名的互联网网站都是梅西，eBay和Zappo的。
+有关详细信息，看一看https://wiki.apache.org/solr/PublicServers。
