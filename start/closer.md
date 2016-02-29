@@ -4,7 +4,7 @@
 
 当Solr在应用服务中运行，它必须能够访问homr目录。home目录包含重要的配置信息，也是Solr存放索引的地方。
 
-目录的关键部分如下：
+Solr home目录的关键部分如下：
 
 ```
 <solr-home-directory>/
