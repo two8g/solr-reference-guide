@@ -14,7 +14,7 @@
    * [日志](admin/logging.md)
    * [Cloud页面](admin/cloud.md)
    * [Core Admin](admin/coreadmin.md)
-   * [Java配置](admin/properties)
+   * [Java配置](admin/properties.md)
    * [线程转储](admin/dump)
    * [Core管理工具](admin/core)
        * [分析界面](admin/core/analysis)
