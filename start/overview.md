@@ -20,3 +20,18 @@ Solr基于开发标准,它具有高度可扩展性.Solr查询具有RESTful特性
 Solr基于Apache Lucene项目，Lucene是一款高性能，多功能的搜索引擎。Solr提供多字段和分类下的简单关键字的包含跟多信息的复杂查询结果。
 
 假如Solr的性能不能让人感到惊人，那么它能支撑庞大数据的应用就只是把戏。
+
+A relatively common scenario is that you have so much data, or so many queries, that a single Solr server is unable
+to handle your entire workload. In this case, you can scale up the capabilities of your application using SolrCloud to
+better distribute the data, and the processing of requests, across many servers. Multiple options can be mixed and
+matched depending on the type of scalability you need.
+For example: "Sharding" is a scaling technique in which a collection is split into multiple logical pieces called
+"shards" in in order to scale up the number of documents in a collection beyond what could physically fit on a single
+server. Incoming queries are distributed to every shard in the collection, which respond with merged results.
+Another technique available is to increase the "Replication Factor" of your collection, which allows you to add
+servers with additional copies of your collection to handle higher concurrent query load by spreading the requests
+around to multiple machines. Sharding and Replication are not mutually exclusive, and together make Solr an
+extremely powerful and scalable platform.
+Best of all, this talk about high-volume applications is not just hypothetical: some of the famous Internet sites that
+use Solr today are Macy's, EBay, and Zappo's.
+For more information, take a look at https://wiki.apache.org/solr/PublicServers .
