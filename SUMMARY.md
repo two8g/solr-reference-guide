@@ -13,7 +13,7 @@
    * [获取帮助](admin/assistance.md)
    * [日志](admin/logging.md)
    * [Cloud页面](admin/cloud.md)
-   * [Core Admin](admin/coreadmin)
+   * [Core Admin](admin/coreadmin.md)
    * [Java配置](admin/properties)
    * [线程转储](admin/dump)
    * [Core管理工具](admin/core)
