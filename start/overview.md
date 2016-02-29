@@ -18,3 +18,6 @@ Solr的可以很容易地通过以下步骤添加在线商店搜索功能:
 Solr基于开发标准,它具有高度可扩展性.Solr查询具有RESTful特性,本质上,它的请求是简单的http url请求,响应是结构化文档:主要为XML格式,不过它同时提供JSON,CSV,以及其它格式.也就是说各式各样的客户端都可以方便使用Solr,比如浏览器web应用，富连接应用，手机硬件等。任何支持HTTP的平台都可以和Solr协作。阅读[Client APIs](/api.md)了解更多客户端APIs.
 
 Solr基于Apache Lucene项目，Lucene是一款高性能，多功能的搜索引擎。Solr提供多字段和分类下的简单关键字的包含跟多信息的复杂查询结果。
+
+假如Solr的性能不能让人感到惊人，那么它能支撑庞大数据的应用就只是把戏。
+If Solr's capabilities are not impressive enough, its ability to handle very high-volume applications should do the trick.
