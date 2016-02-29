@@ -4,7 +4,18 @@ Solr includes a script known as "/bin/solr" that allows you to start and stop So
 cores, and check the status of Solr and configured shards. You can find the script in the bin directory of your Solr
 installation. The bin/solr script makes Solr easier to work with by providing simple commands and options to quickly
 accomplish common goals.
+
 In this section, the headings below correspond to available commands. For each command, the available options
 are described with examples.
+
 More examples of bin/solr in use are available throughout the Solr Reference Guide, but particularly in the sections
-Running Solr and Getting Started with SolrCloud .
+Running Solr and Getting Started with SolrCloud .   
+
+* 启动和关闭
+    * 启动和重启
+    * 状态
+    * 停止
+    * 健康检查
+* Collections 和 Cores
+    * 创建
+    * 删除
