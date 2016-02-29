@@ -25,6 +25,7 @@ A relatively common scenario is that you have so much data, or so many queries, 
 to handle your entire workload. In this case, you can scale up the capabilities of your application using SolrCloud to
 better distribute the data, and the processing of requests, across many servers. Multiple options can be mixed and
 matched depending on the type of scalability you need.
+
 For example: "Sharding" is a scaling technique in which a collection is split into multiple logical pieces called
 "shards" in in order to scale up the number of documents in a collection beyond what could physically fit on a single
 server. Incoming queries are distributed to every shard in the collection, which respond with merged results.
@@ -32,6 +33,8 @@ Another technique available is to increase the "Replication Factor" of your coll
 servers with additional copies of your collection to handle higher concurrent query load by spreading the requests
 around to multiple machines. Sharding and Replication are not mutually exclusive, and together make Solr an
 extremely powerful and scalable platform.
+
 Best of all, this talk about high-volume applications is not just hypothetical: some of the famous Internet sites that
 use Solr today are Macy's, EBay, and Zappo's.
+
 For more information, take a look at https://wiki.apache.org/solr/PublicServers .
