@@ -27,4 +27,4 @@ Solr基于Apache Lucene项目，Lucene是一款高性能，多功能的搜索引
 
 最重要的是，这种谈大批量应用不只是假设：一些使用Solr的今天著名的互联网网站都是梅西，eBay和Zappo的。
 
-有关详细信息，看一看https://wiki.apache.org/solr/PublicServers。
+有关详细信息，看一看https://wiki.apache.org/solr/PublicServers
