@@ -28,7 +28,7 @@
        * [schema浏览](admin/core/schema.md)
 * [Documents,Fields和Schema](document_field_schema.md)
    * [介绍](schema/overview.md)
-   * [Field 类型](schema/fieldtype)
+   * [Field 类型](schema/fieldtype.md)
        * [Field 类型定义和属性](schema/definition)
        * [预留 Field 类型](schema/included)
        * [货币和汇率](schema/currency)
