@@ -11,9 +11,9 @@ Solr home目录的关键部分如下：
 
 ```
 <solr-home-directory>/
-solr.xml
-conf/
-solrconfig.xml
-schema.xml
-data/
+    solr.xml
+    conf/
+    solrconfig.xml
+    schema.xml
+    data/
 ```
