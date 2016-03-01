@@ -6,4 +6,4 @@ page, and how to configure the interface. In addition, there are pages describin
 
 本节讨论Solr的管理界面("Admin UI").
 
-[管理界面概述](./admin/overview.md)
+[管理界面概述](./admin/overview.md)小节介绍它的基本功能
