@@ -17,4 +17,5 @@ page, and how to configure the interface. In addition, there are pages describin
 
 * [Core管理工具](./admin/core.md)介绍Core的下拉界面
     * [分析界面](./admin/core/analysis.md)分析指定field的数据
-    * [数据导入](./admin/dataimport.md)
+    * [数据导入](./admin/dataimport.md)显示数据导入处理程序的信息
+    * 
