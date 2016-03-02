@@ -14,3 +14,6 @@ page, and how to configure the interface. In addition, there are pages describin
 * [Core Admin](./admin/coreadmin.md)介绍如何获取Core的具体管理信息
 * [JAVA配置](./admin/properties.md)显示每个Core的JAVA参数信息
 * [线程存储](./admin/dump.md)让你看到每个线程的详细信息，与状态信息
+
+* [Core管理工具](./admin/core.md)介绍Core的下拉界面
+    * [分析界面](./admin/core/analysis.md)分析指定field的数据
