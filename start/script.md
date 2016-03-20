@@ -36,4 +36,4 @@ Solr的脚本"/bin/solr"，用来启动和关闭solr，创建和删除collection
 ```
 使用重启命令时，必须通过指定你启动时使用的所指定参数。
 When using the restart command, you must pass all of the parameters you initially passed when you started Solr.
-事实上，重启会先开始一个停止服务请求，这样服务才可以重新启动。如果没有如何在运行的服务，重启请求会跳过关闭服务的过程直接启动。
+底层背后，重启会先开始一个停止服务请求，这样服务才可以重新启动。如果没有如何在运行的服务，重启请求会跳过关闭服务的过程直接启动。
