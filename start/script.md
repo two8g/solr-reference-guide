@@ -14,7 +14,7 @@ are described with examples.
 More examples of bin/solr in use are available throughout the Solr Reference Guide, but particularly in the sections
 Running Solr and Getting Started with SolrCloud .   
 
-* 启动和关闭
+* [启动和关闭](#启动和关闭)
     * 启动和重启
     * 状态
     * 停止
