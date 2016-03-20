@@ -17,3 +17,14 @@ Solr的脚本"/bin/solr"，用来启动和关闭solr，创建和删除collection
 
 ### 启动和关闭
 #### 启动和重启
+
+启动命令用来启动新的Solr服务，重启命令可以是正在运行的Solr服务重启或启动已停止的Solr。
+
+启动和重启命令拥有一些选项，或用来启动SolrCloud，或使用一个示例配置，或指定自定义zookeeper服务启动。
+
+```
+./bin/solr start [options]
+./bin/solr start -help
+./bin/solr restart [options]
+./bin/solr restart -help
+```
