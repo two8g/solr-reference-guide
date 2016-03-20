@@ -24,7 +24,13 @@ Solr的脚本"/bin/solr"，用来启动和关闭solr，创建和删除collection
 
 ```
 ./bin/solr start [options]
+```
+```
 ./bin/solr start -help
+```
+```
 ./bin/solr restart [options]
+```
+```
 ./bin/solr restart -help
 ```
