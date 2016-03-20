@@ -34,6 +34,7 @@ Solr的脚本"/bin/solr"，用来启动和关闭solr，创建和删除collection
 ```
 ./bin/solr restart -help
 ```
+使用重启命令时，必须通过指定启动时使用的所指定参数
 When using the restart command, you must pass all of the parameters you initially passed when you started Solr.
 Behind the scenes, a stop request is initiated, so Solr will be stopped before being started again. If no nodes are
 already running, restart will skip the step to stop and proceed to starting Solr.
