@@ -23,4 +23,5 @@ Running Solr and Getting Started with SolrCloud .
     * 创建
     * 删除
 
-## 启动和关闭
+### 启动和关闭
+#### 启动和重启
