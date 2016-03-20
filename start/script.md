@@ -22,3 +22,5 @@ Running Solr and Getting Started with SolrCloud .
 * Collections 和 Cores
     * 创建
     * 删除
+
+启动和关闭
