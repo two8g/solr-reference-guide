@@ -38,3 +38,5 @@ Unless required by applicable law or agreed to in writing, software distributed 
    * [快速预览](start/overview.md)
    * [深入一步](start/closer.md)
    * [Solr启脚本介绍](start/script.md)
+ 
+ * [Similarity][similarity.md]
