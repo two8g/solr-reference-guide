@@ -129,4 +129,4 @@
    * [SolrCloud与传统配置文件](solrcloud/configure/legacy_conf)
 * [传统扩展和分布式](scaledistribution.md)
 * [Client API](api.md)
-
+* [Similarity](similarity.md)
