@@ -68,14 +68,11 @@ arbitrary Java system properties. For example, to set the auto soft-commit frequ
 
 #### SolrCloud模式
 
-The -c and -cloud options are equivalent:
+选项`-c`和`-cloud`等价:
 ```./bin/solr start -c```
 ```./bin/solr start -cloud```
 
-If you specify a ZooKeeper connection string, such as -z 192.168.1.4:2181 , then Solr will connect to
-ZooKeeper and join the cluster. If you do not specify the -z option when starting Solr in cloud mode, then Solr will
-launch an embedded ZooKeeper server listening on the Solr port + 1000, i.e., if Solr is running on port 8983, then
-the embedded ZooKeeper will be listening on port 9983.
+如果你指定了ZooKeeper连接地址, such as `-z 192.168.1.4:2181`, 那么Solr会连接ZooKeeper加入集群,如果没有指定,Solr会再端口 port+1000上启动一个内嵌的ZooKeeper服务,如果Solr是运行再8983端口,则内嵌ZooKeeper将运行再9983端口.
 
 IMPORTANT: If your ZooKeeper connection string uses a chroot, such as `localhost:2181/solr` , then you need to bootstrap the /solr znode before launching SolrCloud using the bin/solr script. To do this, you need to use the zkcli.sh script shipped with Solr, such as:
 ```server/scripts/cloud-scripts/zkcli.sh -zkhost localhost:2181/solr -cmd bootstrap -solrhome server/solr```
