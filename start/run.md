@@ -60,9 +60,9 @@ Solr提供多个实用的样例来帮助学习它的重要特性.使用`-e`标�
 目前供使用的样例有:techproducts, dih, schemaless和cloud.
 
 
-![Info](info.png)&nbsp;&nbsp;&nbsp;**Getting Started SolrCloud**
+![Info](../info.png)&nbsp;&nbsp;&nbsp;**Getting Started SolrCloud**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运行cloud样例会以[SolrCloud](/solrcloud.md)模式启动.详细信息请查看[SolrCloud入门](/solrcloud/start.md).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运行cloud样例会以[SolrCloud](../solrcloud.md)模式启动.详细信息请查看[SolrCloud入门](../solrcloud/start.md).
 
 
 ### *查看Solr运行状态*
@@ -95,11 +95,11 @@ http://localhost:8983/solr/
 
 ## 添加文档
 
-Solr的目的是查找与查询条件匹配的文档. Solr的模式提供了对内容的结构化方式(更多请看[第四章](/document_field_schema.md)),如果没有文档,那还谈什么.要想Solr多产奶,就得先喂草.
+Solr的目的是查找与查询条件匹配的文档. Solr的模式提供了对内容的结构化方式(更多请看[第四章](../document-field-schema.md)),如果没有文档,那还谈什么.要想Solr多产奶,就得先喂草.
 
 你可能想在搜索想要的内容之前添加一点简单的文档. Solr提供了一些测试文档集,位于`example/`子目录下.
 
-`bin/`目录是提交脚本,用来index不同类型文档的命令行工具.如果对详细过程感到困惑,[索引和基本数据操作](/index.md)提供了索引建立的全部细节.
+`bin/`目录是提交脚本,用来index不同类型文档的命令行工具.如果对详细过程感到困惑,[索引和基本数据操作](../index.md)提供了索引建立的全部细节.
 
 查看`bin/post`脚本的使用说明,使用`-help`选项.
 

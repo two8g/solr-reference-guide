@@ -10,7 +10,7 @@
 
 Solr[官方网址](http://lucene.apache.org/solr/).
 
-Linux/Unix/OSX系统,请下载`.tgz`格式压缩文件.微软Windows系统,可以下载`.zip`文件.只需解压Solr分发包到你指定目录.如需在生成环境运行Solr,请跳转至[生成环境部署](manage/production.md).简单起见,解压Solr分发包到指定目录,以Linux环境为例,运行:
+Linux/Unix/OSX系统,请下载`.tgz`格式压缩文件.微软Windows系统,可以下载`.zip`文件.只需解压Solr分发包到你指定目录.如需在生成环境运行Solr,请跳转至[生成环境部署](../manage/production.md).简单起见,解压Solr分发包到指定目录,以Linux环境为例,运行:
 
     $ cd ~/
     $ tar zxf solr-5.0.0.tgz
