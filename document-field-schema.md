@@ -11,8 +11,7 @@ schema file, schema.xml . It includes the following topics:
 
 [拷贝 Fields](schema/copyfield.md): Describes how to populate fields with data copied from another field.
 
-[动态 Fields](schema/dynamic.md): Information about using dynamic fields in order to catch and index fields that do not exactly conform
-to other field definitions in your schema.
+[动态 Fields](schema/dynamic.md): Information about using dynamic fields in order to catch and index fields that do not exactly conform to other field definitions in your schema.
 
 [Schema API](schema/api.md): Use curl commands to read various parts of a schema or create new fields and copyField rules.
 

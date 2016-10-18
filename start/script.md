@@ -72,35 +72,42 @@ arbitrary Java system properties. For example, to set the auto soft-commit frequ
 ```./bin/solr start -c```
 ```./bin/solr start -cloud```
 
-如果你指定了ZooKeeper连接地址, such as `-z 192.168.1.4:2181`, 那么Solr会连接ZooKeeper加入集群,如果没有指定,Solr会再端口 port+1000上启动一个内嵌的ZooKeeper服务,如果Solr是运行再8983端口,则内嵌ZooKeeper将运行再9983端口.
+如果你指定了ZooKeeper连接地址, such as `-z 192.168.1.4:2181`, 那么Solr会连接ZooKeeper加入集群,如果没有指定,Solr会在端口port+1000上启动一个内嵌的ZooKeeper服务,如果Solr是运行再8983端口,则内嵌ZooKeeper将运行再9983端口.
 
-IMPORTANT: If your ZooKeeper connection string uses a chroot, such as `localhost:2181/solr` , then you need to bootstrap the /solr znode before launching SolrCloud using the bin/solr script. To do this, you need to use the zkcli.sh script shipped with Solr, such as:
+**重要**: If your ZooKeeper connection string uses a chroot, such as `localhost:2181/solr` , then you need to bootstrap the /solr znode before launching SolrCloud using the bin/solr script. To do this, you need to use the zkcli.sh script shipped with Solr, such as:
 ```server/scripts/cloud-scripts/zkcli.sh -zkhost localhost:2181/solr -cmd bootstrap -solrhome server/solr```
 
-When starting in SolrCloud mode, the interactive script session will prompt you to choose a configset to use.
-For more information about starting Solr in SolrCloud mode, see also the section Getting Started with SolrCloud .
+当以SolrCloud模式启动时,交互式回话会指导你配置服务选项.更多关于SolrCloud启动的内容,阅读章节[SolrCloud入门指南](../solrcloud/start.md).
 
 #### 运行样例配置
 
 ```./bin/solr start -e <name>```
 
-The example configurations allow you to get started quickly with a configuration that mirrors what you hope to
-accomplish with Solr. The following examples are provided:
+<!--The example configurations allow you to get started quickly with a configuration that mirrors what you hope to
+accomplish with Solr. The following examples are provided:-->
+样例配置能让你快速启动一个你想要的配置完整的solr实例.Solr提供以下样例:
 
-* **cloud**: This example starts a 1-4 node SolrCloud cluster on a single machine. When chosen, an interactive
+* **cloud**: 此样例在单机上启动一个具有1-4个节点的SolrCloud集群.启动时,会通过交互式会话指导你选择集群的节点数目,服务的端口,和要创建的collection的名称.
+
+<!--This example starts a 1-4 node SolrCloud cluster on a single machine. When chosen, an interactive
 session will start to guide you through options to select the number of nodes for your example cluster, the
-ports to use, and name of the collection to be created.
-* **techproducts**: This example starts Solr in standalone mode with a schema designed for the sample
-documents included in the $SOLR_HOME/example/exampledocs directory. The configset used does not
-have SolrCloud or schemaless modes enabled, so fields must be explicitly defined in schema.xml in order
-for documents including those fields to be added to the index. The configset used can be found in $SOLR_HO
-ME/server/solr/configsets/sample_techproducts_configs .
-* **dih**: This example starts Solr in standalone mode with the DataImportHandler (DIH) enabled and several
+ports to use, and name of the collection to be created.-->
+
+* **techproducts**: 此样例以独立模式启动一个Solr,包含`$SOLR_HOME/example/exampledocs`目录中的文档及对应的schema设计.此配置集下SolrCloud或schemaless模式不可用,fields必需在`schema.xml`中定义来包含那些用来建索引的文档的fields.configset在目录`$SOLR_HOME/server/solr/configsets/sample_techproducts_configs`下.
+
+<!_-This example starts Solr in standalone mode with a schema designed for the sample
+documents included in the $SOLR_HOME/example/exampledocs directory. The configset used does not have SolrCloud or schemaless modes enabled, so fields must be explicitly defined in schema.xml in order for documents including those fields to be added to the index. The configset used can be found in $SOLR_HOME/server/solr/configsets/sample_techproducts_configs .-->
+
+* **dih**: 
+
+<!--This example starts Solr in standalone mode with the DataImportHandler (DIH) enabled and several
 example dataconfig.xml files pre-configured for different types of data supported with DIH (such as,
 database contents, email, RSS feeds, etc.). For more information about DIH, see the section Uploading
-Structured Data Store Data with the Data Import Handler .
-* **schemaless**: This example starts Solr in standalone mode using a managed schema, as described in the
+Structured Data Store Data with the Data Import Handler .-->
+
+* **schemaless**: 
+<!--This example starts Solr in standalone mode using a managed schema, as described in the
 section Managed Schema Definition in SolrConfig , and provides a very minimal pre-defined schema. Solr will
 run in Schemaless Mode with this configuration, where Solr will create fields in the schema on the fly and will
 guess field types used in incoming documents. The configset used can be found in $SOLR_HOME/server/s
-olr/configsets/data_driven_schema_configs .
+olr/configsets/data_driven_schema_configs .-->
