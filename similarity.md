@@ -13,7 +13,7 @@
 
 Given a query $Q$, containing keywords $q_{1},...,q_{n}$, the BM25 score of a document $D$ is:
 
-![score_BM25.svg](./doc/score_BM25.svg)
+![score_BM25.svg](./docs/score_BM25.svg)
 
 $${\text{score}}(D,Q)=\sum _{i=1}^{n}{\text{IDF}}(q_{i})\cdot {\frac {f(q_{i},D)\cdot (k_{1}+1)}{f(q_{i},D)+k_{1}\cdot \left(1-b+b\cdot {\frac {|D|}{\text{avgdl}}}\right)}}$$
 
